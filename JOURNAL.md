@@ -22,6 +22,6 @@
 
 **2.15h**
 
-I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors which I didnt understand so I asked help from Gemini which helped me debug the code, which is why I realized the SW_push buttons were not the correct ones from the tutorial so I fixed that and also I assigned the incorrect footprints to those same push buttons which didn't allow the editor to see that only 14 out of 22 pins were being used, so I decided to finish the recording and take a break and figure out the rest of the bugs tommorow.
+I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors which I didnt understand so I asked help from Gemini which helped me debug the code, which is why I realized the SW_push buttons were not the correct ones from the tutorial so I fixed that and also I assigned the incorrect footprints to those same push buttons which didn't allow the editor to see that only 14 out of 22 pins were being used and also the rats nest wasn't showing, so I decided to finish the recording and take a break and figure out the rest of the bugs tommorow.
 
 [Timelapse](https://lookout.hackclub.com/api/media/7cfe83e0-054f-4913-ac92-b6aab571a441/video.mp4)
