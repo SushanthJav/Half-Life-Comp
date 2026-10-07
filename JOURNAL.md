@@ -42,6 +42,6 @@ I fixed the errors from last time concering the pins by asking gemini what was g
 
 **0.8h**
 
-I went on to draw the edge layer and then had a bit of trouble with that that I fixed and then I went on to wire the orange wire with x. This was after I finished fixing those errors from the pin issue
+I went on to draw the edge layer and then had a bit of trouble with that that I fixed and then I went on to wire the orange wire with x. This was after I finished fixing those errors from the pin issue.
 
 [Timelapse](https://lookout.hackclub.com/api/media/5a9c0e69-d14b-4673-88cb-72887b4cdd30/video.mp4)
