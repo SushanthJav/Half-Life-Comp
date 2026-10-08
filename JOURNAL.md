@@ -10,14 +10,14 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.78h | 4 |
+| Week 1 | Tier 1 | 5.53h | 4 |
 
 ## Contents
 
 1. [2026-10-05 – I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors](#2026-10-05-i-started-working-on-the-starbie-project-and-i-fi)
 2. [2026-10-06 – I fixed the errors from last time concering the pins by asking gemini what was going wrong and I was able to fix it, it turned out the pins 12 - 22 were not connecting properly and had to go into the](#2026-10-06-i-fixed-the-errors-from-last-time-concering-the-p)
 3. [2026-10-06 – I went on to draw the edge layer and then had a bit of trouble with that that I fixed and then I went on to wire the orange wire with x. This was after I finished fixing those errors from the pin issu](#2026-10-06-i-went-on-to-draw-the-edge-layer-and-then-had-a-b)
-4. [2026-10-08 – I spent an extra 30 minutes off screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the recording I double checked the w](#2026-10-08-i-spent-an-extra-30-minutes-off-screen-rewiring-t)
+4. [2026-10-08 – I spent an extra 15 minutes off screen and about 30 minutes on screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the r](#2026-10-08-i-spent-an-extra-15-minutes-off-screen-and-about-)
 
 ## Design
 
@@ -47,10 +47,10 @@ I went on to draw the edge layer and then had a bit of trouble with that that I 
 
 [Timelapse](https://lookout.hackclub.com/api/media/5a9c0e69-d14b-4673-88cb-72887b4cdd30/video.mp4)
 
-### 2026-10-08 – I spent an extra 30 minutes off screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the recording I double checked the w
+### 2026-10-08 – I spent an extra 15 minutes off screen and about 30 minutes on screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the r
 
-**1.58h**
+**1.33h**
 
-I spent an extra 30 minutes off screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the recording I double checked the wiring to make sure it was the same or similar to the guide and I also maked sure that nothing had changed from the original schematic and then I realized that some of teh rats nest wiring was wrong or flipped, so i turned them using r to match the image from teh guide and this time I searched up how to get around the top layer wiring mix up and learned I could just use the bottom layer too by making a hole with v and going underneath wiring through f.b instead of f.c and I finished the wiring. I then finished the wiring and took a little bit more time to add the images custom to my pcb, because I couldnt find the image converter and then I found it and played around til the image fit on the board just right.
+I spent an extra 15 minutes off screen and about 30 minutes on screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the recording I double checked the wiring to make sure it was the same or similar to the guide and I also maked sure that nothing had changed from the original schematic and then I realized that some of teh rats nest wiring was wrong or flipped, so i turned them using r to match the image from teh guide and this time I searched up how to get around the top layer wiring mix up and learned I could just use the bottom layer too by making a hole with v and going underneath wiring through f.b instead of f.c and I finished the wiring. I then finished the wiring and took a little bit more time to add the images custom to my pcb, because I couldnt find the image converter and then I found it and played around til the image fit on the board just right.
 
 [Timelapse](https://lookout.hackclub.com/api/media/1236a7be-d45f-4a9f-a0f9-6e787209043c/video.mp4)
