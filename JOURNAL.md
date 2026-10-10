@@ -10,22 +10,22 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 5.53h | 4 |
+| Week 1 | Tier 1 | 6.28h | 4 |
 
 ## Contents
 
-1. [2026-10-05 – I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors](#2026-10-05-i-started-working-on-the-starbie-project-and-i-fi)
+1. [2026-10-05 – I forgot to include this, but before I started working on the project, for 45 minutes, I researched what PCB's do and how to make them and I learned they are used for custom projects and that they are](#2026-10-05-i-forgot-to-include-this-but-before-i-started-wor)
 2. [2026-10-06 – I fixed the errors from last time concering the pins by asking gemini what was going wrong and I was able to fix it, it turned out the pins 12 - 22 were not connecting properly and had to go into the](#2026-10-06-i-fixed-the-errors-from-last-time-concering-the-p)
 3. [2026-10-06 – I went on to draw the edge layer and then had a bit of trouble with that because I kept drawing the edge layer wrong so I fixed it and then I went on to wire the orange wire with x. This was after I f](#2026-10-06-i-went-on-to-draw-the-edge-layer-and-then-had-a-b)
 4. [2026-10-08 – I spent an extra 15 minutes off screen and about 30 minutes on screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the r](#2026-10-08-i-spent-an-extra-15-minutes-off-screen-and-about-)
 
 ## Design
 
-### 2026-10-05 – I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors
+### 2026-10-05 – I forgot to include this, but before I started working on the project, for 45 minutes, I researched what PCB's do and how to make them and I learned they are used for custom projects and that they are
 
-**2.15h**
+**2.9h**
 
-I started working on the Starbie project and I finished making the pcb and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors which I didnt understand so I asked help from Gemini which helped me debug the code, which is why I realized the SW_push buttons were not the correct ones from the tutorial so I fixed that and also I assigned the incorrect footprints to those same push buttons which didn't allow the editor to see that only 14 out of 22 pins were being used and also the rats nest wasn't showing, so I decided to finish the recording and take a break and figure out the rest of the bugs tommorow.
+I forgot to include this, but before I started working on the project, for 45 minutes, I researched what PCB's do and how to make them and I learned they are used for custom projects and that they are pretty useful to have on your resume as an engineering major because u basically made ur own circuit board then I went ahead and started working on the Starbie project and I finished making the schematic and also assigned the proper footprints but when I went to update the schematic on the pcb editor it said there were some errors which I didnt understand so I asked help from Gemini which helped me debug the code, which is why I realized the SW_push buttons were not the correct ones from the tutorial so I fixed that and also I assigned the incorrect footprints to those same push buttons which didn't allow the editor to see that only 14 out of 22 pins were being used and also the rats nest wasn't showing, so I decided to finish the recording and take a break and figure out the rest of the bugs tommorow.
 
 [Timelapse](https://lookout.hackclub.com/api/media/7cfe83e0-054f-4913-ac92-b6aab571a441/video.mp4)
 
