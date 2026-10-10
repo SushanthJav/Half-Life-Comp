@@ -16,7 +16,7 @@
 
 1. [2026-10-05 – I forgot to include this, but before I started working on the project, for 45 minutes, I researched what PCB's do and how to make them and I learned they are used for custom projects and that they are](#2026-10-05-i-forgot-to-include-this-but-before-i-started-wor)
 2. [2026-10-06 – I fixed the errors from last time concering the pins by asking gemini what was going wrong and I was able to fix it, it turned out the pins 12 - 22 were not connecting properly and had to go into the](#2026-10-06-i-fixed-the-errors-from-last-time-concering-the-p)
-3. [2026-10-06 – I went on to draw the edge layer and then had a bit of trouble with that because I kept drawing the edge layer wrong so I fixed it and then I went on to wire the orange wire with x. This was after I f](#2026-10-06-i-went-on-to-draw-the-edge-layer-and-then-had-a-b)
+3. [2026-10-06 – I went into the settings and fixed the pad problem with the pins I didn't manage to fix in the last session and I went on to draw the edge layer and then had a bit of trouble with that because I kept](#2026-10-06-i-went-into-the-settings-and-fixed-the-pad-proble)
 4. [2026-10-08 – I spent an extra 15 minutes off screen and about 30 minutes on screen rewiring the ratsnest x thing because last time I didn't do the wiring properly and kept getting errors. In the beginning of the r](#2026-10-08-i-spent-an-extra-15-minutes-off-screen-and-about-)
 
 ## Design
@@ -39,11 +39,11 @@ I fixed the errors from last time concering the pins by asking gemini what was g
 
 ![Schematic editor](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/aognY8UOVQB9hZBPwkQkR9oFPOAPqNn0/524497ebf79fe8126d83919b5cc3b5f3a53947025cf1f6f4a4b4c3ee225d758b.png)
 
-### 2026-10-06 – I went on to draw the edge layer and then had a bit of trouble with that because I kept drawing the edge layer wrong so I fixed it and then I went on to wire the orange wire with x. This was after I f
+### 2026-10-06 – I went into the settings and fixed the pad problem with the pins I didn't manage to fix in the last session and I went on to draw the edge layer and then had a bit of trouble with that because I kept
 
 **0.8h**
 
-I went on to draw the edge layer and then had a bit of trouble with that because I kept drawing the edge layer wrong so I fixed it and then I went on to wire the orange wire with x. This was after I finished fixing those errors from the pin issue.
+I went into the settings and fixed the pad problem with the pins I didn't manage to fix in the last session and I went on to draw the edge layer and then had a bit of trouble with that because I kept drawing the edge layer wrong so I fixed it and then I went on to wire the orange wire with x. This was after I finished fixing those errors from the pin issue.
 
 [Timelapse](https://lookout.hackclub.com/api/media/5a9c0e69-d14b-4673-88cb-72887b4cdd30/video.mp4)
 
